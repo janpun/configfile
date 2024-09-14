@@ -1,1 +1,3 @@
-DOMAIN-SET,.host,DIRECT
+DOMAIN-SUFFIX,shanghan.host
+DOMAIN-SUFFIX,servbay.host
+DOMAIN-SUFFIX,skynet.host
