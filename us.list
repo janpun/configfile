@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,microsoftonline.com
 
+# design
+DOMAIN-SUFFIX,getdesign.md
+
 
 # Twitter
 DOMAIN-SUFFIX,t.co
