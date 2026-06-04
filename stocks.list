@@ -1,0 +1,12 @@
+# futu
+DOMAIN-SUFFIX,http://futunn.com,PROXY
+DOMAIN-SUFFIX,http://moomoo.com,PROXY
+DOMAIN-SUFFIX,http://futuholdings.com,PROXY
+DOMAIN-SUFFIX,http://futuhk.com,PROXY
+DOMAIN-SUFFIX,http://futufin.com,PROXY
+DOMAIN-SUFFIX,http://qtcard.futunn.com,PROXY
+DOMAIN-SUFFIX,http://qtcardfthk.futufin.com,PROXY
+DOMAIN-SUFFIX,http://openapi.futunn.com,PROXY
+DOMAIN-SUFFIX,http://api.futunn.com,PROXY
+DOMAIN-SUFFIX,http://api5.futunn.com,PROX
+DOMAIN-SUFFIX,http://trade.futunn.com,PROXY
