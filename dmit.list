@@ -78,3 +78,7 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditmedia.com
+
+# chatgpt
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
