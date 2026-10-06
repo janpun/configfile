@@ -2,3 +2,7 @@
 DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
+
+# spaceship
+DOMAIN-SUFFIX,spaceship.com
+DOMAIN-SUFFIX,spaceship-cdn.com
